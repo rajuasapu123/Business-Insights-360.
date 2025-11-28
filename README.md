@@ -1,4 +1,5 @@
 # Business-Insights-360-Power-BI
+**live Dashboard link :**[live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTY5ZDJkMjMtZjI5MS00YjBlLThlZTgtMmZiN2M5MjY3ZTVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Project Overview
 AtliQ Hardware, is a rapidly growing global electronics manufacturing company and sells hardware components across the globe, faced financial challenges despite rapid growth and expansion. To address these issues, the company decided to transition to data-driven decision-making using Power BI to identify actionable insights across finance, sales, marketing, and supply chain operations.
 ## Problem Statement
@@ -35,3 +36,12 @@ To keep up with competitors who already rely on advanced analytics, the company 
 - Date table creation using M language
 - KPI indicators for quick performance checks
 - Data validation techniques to ensure accuracy
+## Dashboard View
+The dashboard provides a 360° view of AtliQ Hardware’s business operations across multiple domains:
+- ✅ Home View – Navigate seamlessly with a central landing page
+- ✅ Finance View – Analyze P&L statements, Net Sales trends, and top/bottom customers & products 
+- ✅ Sales View – Explore customer and product performance with Net Sales, Gross Margin %, unit economics, and deductions
+- ✅ Marketing View – Gain insights by market, region, product, and customer, tracking GM% and NP% across segments
+- ✅ Supply Chain View – Track Forecast Accuracy, Net Error, and Absolute Error with trend analysis for optimization
+- ✅ Executive View – Monitor performance at a glance with revenue by division, customer, product, and channel
+ 
