@@ -1,12 +1,12 @@
 # BUSINESS INSIGHTS 360
 **live Dashboard link :**[live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTY5ZDJkMjMtZjI5MS00YjBlLThlZTgtMmZiN2M5MjY3ZTVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-## Project Overview
+## 🔍Project Overview
 AtliQ Hardware, is a rapidly growing global electronics manufacturing company and sells hardware components across the globe, faced financial challenges despite rapid growth and expansion. To address these issues, the company decided to transition to data-driven decision-making using Power BI to identify actionable insights across finance, sales, marketing, and supply chain operations.
-## Problem Statement
+## 🧩Problem Statement
 AtliQ Hardware Established a new store in Latin America region which leads to huge loss due to their ineffective decision making.
-## Objective
+## 🎯Objective
 To keep up with competitors who already rely on advanced analytics, the company decided to leverage **Power BI** for making data-driven decisions.
-## Datasets
+## 📂Datasets
 **Tables**     
 - dim_customer: Customer details.
 - dim_market: Market regions.
@@ -19,13 +19,13 @@ To keep up with competitors who already rely on advanced analytics, the company 
 - pre_invoice_deductions: discounts before invoicing
 - post_invoice_deductions - discounts after invoicing
 
-## Tools Used
+## 🛠️Tools Used
 - **Excel/CSV**: For data preprocessing. 
 - **SQL**: For data extraction and manipulation.
 - **Power Query**: For data cleaning and transformation.
 - **Power BI Desktop**: For dashboard creation and visualization.  
 - **DAX Studio**: For file size optimization.
-## Power BI Techniques learned
+## ⚡Power BI Techniques learned
 - Data cleaning and transformations with Power Query
 - data modeling for efficient relationships
 - Creating DAX measures and Calculated Columns
