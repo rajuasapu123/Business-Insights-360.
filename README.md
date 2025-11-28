@@ -64,4 +64,5 @@ The dashboard provides a 360° view of AtliQ Hardware’s business operations ac
   <img width="1527" height="860" alt="Executive View" src="https://github.com/user-attachments/assets/74d22831-81ca-4ecc-b06a-128693a4114b" />
 ## 🚀 Project Outcome
  This project demonstrates how 1.5M+ rows of raw data were transformed into an interactive, insightful Dashboard.
+ 
 This hands on project experienced me to converting raw data into actionable insights for data driven decisions.
